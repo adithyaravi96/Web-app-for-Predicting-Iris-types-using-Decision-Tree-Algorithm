@@ -51,15 +51,15 @@ streamlit run iris_app.py
 3.The predicted species will be displayed in a text box with custom styling.
 
 ## Model
-# 1.The app uses a Decision Tree Classifier model trained on the famous Iris dataset.
+### 1.The app uses a Decision Tree Classifier model trained on the famous Iris dataset.
 
-# 2.Model File: iris_classifier_model.joblib
+### 2.Model File: iris_classifier_model.joblib
 Model Training Code: Prediction using Decision Tree clssifier.ipynb
 
 
 ## Acknowledgments
 
-# 1.GRIP Internship team
-# 2.Iris Dataset from GRIP Internship
-# 3.Streamlit Community and Documentation
+### 1.GRIP Internship team
+### 2.Iris Dataset from GRIP Internship
+### 3.Streamlit Community and Documentation
 
