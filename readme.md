@@ -39,7 +39,7 @@ cd iris-flower-prediction-app
 
 #3.Run the Streamlit app
 streamlit run iris_app.py
-'''
+```
 # The app should open in your default web browser
 
 ##Usage
