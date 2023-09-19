@@ -1,18 +1,18 @@
 # Iris Flower Species Prediction App
 
-## Demo Video :
+# Demo Video :
 
 https://github.com/adithyaravi96/Web-app-for-Predicting-Iris-types-using-Decision-Tree-Algorithm/assets/131150097/66239284-f6da-4449-beb9-ecaaedf66642
 
 
-## Screenshot :
+# Screenshot :
 ![screen shot](https://github.com/adithyaravi96/Web-app-for-Predicting-Iris-types-using-Decision-Tree-Algorithm/assets/131150097/cf91822d-8f1b-4b4c-b1ff-d198ddd90137)
 
 
 This web application uses a Decision Tree Classifier to predict the species of Iris flowers based on user-input sepal and petal measurements.
 
 
-## Getting Started
+# Getting Started
 
 ### Prerequisites
 
@@ -43,23 +43,27 @@ streamlit run iris_app.py
 # The app should open in your default web browser
 ```
 
-## Usage
+# Usage
 1.Use the sidebar sliders to input sepal and petal measurements (in centimeters).
 
 2.Click the "Predict" button to obtain the predicted Iris flower species.
 
 3.The predicted species will be displayed in a text box with custom styling.
 
-## Model
+# Model
 ### 1.The app uses a Decision Tree Classifier model trained on the famous Iris dataset.
 
 ### 2.Model File: iris_classifier_model.joblib
 Model Training Code: Prediction using Decision Tree clssifier.ipynb
 
 
-## Acknowledgments
+# Acknowledgments
 
 ### 1.GRIP Internship team
 ### 2.Iris Dataset from GRIP Internship
 ### 3.Streamlit Community and Documentation
+
+## Reference
+### Chatgpt for troubleshooting errors
+
 
