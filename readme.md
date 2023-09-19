@@ -40,23 +40,25 @@ cd iris-flower-prediction-app
 #3.Run the Streamlit app
 streamlit run iris_app.py
 ```
+
 # The app should open in your default web browser
 
-##Usage
+## Usage
 1.Use the sidebar sliders to input sepal and petal measurements (in centimeters).
 
 2.Click the "Predict" button to obtain the predicted Iris flower species.
 
 3.The predicted species will be displayed in a text box with custom styling.
 
-##Model
+## Model
 The app uses a Decision Tree Classifier model trained on the famous Iris dataset.
 
 Model File: iris_classifier_model.joblib
 Model Training Code: Prediction using Decision Tree clssifier.ipynb
 
 
-Acknowledgments
+## Acknowledgments
+
 GRIP Internship team
 Iris Dataset
 Streamlit Community and Documentation
